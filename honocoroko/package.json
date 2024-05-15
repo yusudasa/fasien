@@ -28,12 +28,12 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yusudasa/fasien/tree/main/honocoroko"
+    "url": "https://github.com/yusudasa/fasien/honocoroko"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yusudasa/fasien/tree/main/honocoroko/issues"
+    "url": "https://github.com/yusudasa/fasien/honocoroko/issues"
   },
-  "homepage": "https://github.com/yusudasa/fasien/blob/main/honocoroko/README.md"
+  "homepage": "https://github.com/yusudasa/fasien/honocoroko/README.md"
 }
